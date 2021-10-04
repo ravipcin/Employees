@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Employees</string>
+    <string name="user_id_text">User Id:</string>
+    <string name="job_title_text">Job Title:</string>
+    <string name="full_name_text">Full Name:</string>
+    <string name="emp_code_text">Employee Code:</string>
+    <string name="region_text">Region:</string>
+    <string name="phone_number_text">Phone Number:</string>
+    <string name="email_address_text">Email Address:</string>
+</resources>
